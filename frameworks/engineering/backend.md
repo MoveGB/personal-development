@@ -1,7 +1,7 @@
 ---
 path: "/engineering/backend"
-title: "🛠️ Backend Engineering Framework"
-sidebarTitle: "🛠️ Backend"
+title: "🛠️ Platform Engineering Framework"
+sidebarTitle: "🛠️ Platform"
 sidebarGroup: "engineering"
 yaml: true
 levels: 6
