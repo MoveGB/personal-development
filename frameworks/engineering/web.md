@@ -12,10 +12,10 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Provides regular status updates to their mentor/buddy"
+          - "Provides regular status updates to their squad and guild"
           - "Points out syntactical improvements in code reviews"
           - "Writes PR descriptions that provide basic context for the change"
-          - "Seeks guidance from other engineers, rather than answers"
+          - "Seeks guidance from other guild members, rather than answers"
       - level: 2
         criteria:
           - "Proactively communicates to their team what they are working on, why, how it's going and what help they need"
@@ -39,8 +39,8 @@ topics:
           - "Proactively gives feedback 'upwards' and to people they interact with who are not in their team"
           - "Transparent in making design and technical decisions"
           - "Helps people in non-technical roles understand technical constraints / trade-offs"
-          - "Shares technical context and direction for less experienced engineers"
-          - "Gives direct and constructive feedback to other engineers"
+          - "Shares technical context and direction for less experienced guild members"
+          - "Gives direct and constructive feedback to other guild members"
       - level: 5
         criteria:
           - "Helps other people develop themselves and regularly gives insightful, useful feedback to those around them"
@@ -94,7 +94,7 @@ topics:
     content:
       - level: 3
         criteria:
-          - "Onboards / mentors new engineers"
+          - "Onboards / coachs new guild members"
         exampleCriteria:
           - criteria: "Finds learning opportunities for others when reviewing their code and follows it up"
             examples:
@@ -103,10 +103,10 @@ topics:
         criteria:
           - "Contributes to maintaining the Monzo culture in their team, helping new joiners"
           - "Gets buy-in on technical decision-making and proposed designs"
-          - "Proactively involves other relevant engineers"
+          - "Proactively involves other relevant guild members"
           - "Sought out for code reviews"
-          - "Instills Monzo engineering principles in other engineers"
-          - "Helps the growth of engineers around them through coaching and mentoring"
+          - "Instills Monzo engineering principles in other guild members"
+          - "Helps the growth of guild members around them through coaching and mentoring"
           - "Helps their squad work together more effectively"
           - "Helps facilitate team/squad rituals"
         exampleCriteria:
@@ -115,8 +115,8 @@ topics:
               - "I've used RxJava for the first time here, I'm going to do a talk about why I've done this, here's some great blog posts on it"
       - level: 5
         criteria:
-          - "Instills Monzo engineering principles across a whole squad of engineers"
-          - "Works with relevant Engineering Managers to help other engineers perform and grow"
+          - "Instills Monzo engineering principles across a whole squad of guild members"
+          - "Works with relevant Engineering Managers to help other guild members perform and grow"
           - "Fosters effective collaboration in multi-disciplinary squads (backend, mobile, data, design, web)"
           - "Delegates technical decisions with low risk and high reversibility"
           - "Owns technical decisions with high risk and low reversibility"
@@ -141,32 +141,32 @@ topics:
           - "Provides valuable input to proposals from their team"
           - "Proactively improves modules, services, systems and codebases they encounter, 'this doesn't make sense, I'm going to do something about it'"
           - "Contributes to scaling engineering hiring (e.g. leads calls, does onsite interviews)"
-          - "Builds simple tools or iterates existing tools for the benefit of all engineers"
+          - "Builds simple tools or iterates existing tools for the benefit of all guild members"
           - "Helps Product Managers and Designers to understand and consider non-functional requirements in the product development process"
-          - "Promotes accessibility good practice and helps other engineers to deepen their accessibility knowledge, including demonstrating how to use screen readers"
-          - "Promotes security good practice and helps other engineers to deepen their security knowledge"
-          - "Promotes performance good practice and helps other engineers to deepen their performance knowledge"
+          - "Promotes accessibility good practice and helps other guild members to deepen their accessibility knowledge, including demonstrating how to use screen readers"
+          - "Promotes security good practice and helps other guild members to deepen their security knowledge"
+          - "Promotes performance good practice and helps other guild members to deepen their performance knowledge"
       - level: 4
         criteria:
-          - "Positively influences engineers in the wider org"
-          - "Maintains documentation on things they know the most, makes it easy for future engineers to interact with systems/code"
+          - "Positively influences guild members in the wider org"
+          - "Maintains documentation on things they know the most, makes it easy for future guild members to interact with systems/code"
           - "Clears blockers for junior team members, provides context/guidance, or knows how to escalate"
           - "Asks why. Does not take truths for granted unless they understand exactly where they are coming from (especially with regards to regulation, compliance, etc)"
           - "Drives changes to engineering practices with well-reasoned arguments and a 'strong opinion, weakly held' mentality"
-          - "Shapes the direction of systems designs with less experienced engineers"
+          - "Shapes the direction of systems designs with less experienced guild members"
           - "Breaks down delivery and knowledge silos in their squad"
           - "Keeps up to date with industry developments and feeds specific technical and non-functional recommendations back into the business"
           - "Proactively identifies opportunities to improve company culture around coding standards and non-functional requirements"
       - level: 5
         criteria:
           - "Represents Monzo at conferences/events"
-          - "Given as reason for other engineers to join Monzo"
+          - "Given as reason for other guild members to join Monzo"
           - "Proactively shares knowledge internally"
           - "Acts as the 'sole proprietor', in the CEO mindset, their ego/agenda is not a factor in their thinking or decision making"
       - level: 6
         criteria:
           - "Attracts other very senior hires"
-          - "Engineers around them get better and have a bigger impact, faster"
+          - "Guild members around them get better and have a bigger impact, faster"
   - name: "mastery"
     title: "🛠️ Mastery"
     content:
@@ -177,7 +177,7 @@ topics:
           - "Uses Chrome, React, and Redux DevTools effectively to increase productivity during development and debugging"
           - "Implements simple components"
           - "Fixes simple bugs"
-          - "Asks questions and actions feedback from mentor"
+          - "Asks questions and actions feedback from coach"
         exampleCriteria:
           - criteria: "Uses git to manage the development workflow effectively"
             examples:
@@ -216,11 +216,11 @@ topics:
         criteria:
           - "Uses appropriate design patterns to solve problems"
           - "Identifies obvious deficiencies in the development processes and supports activities to improve them"
-          - "Assists more experienced engineers on the design of larger features"
+          - "Assists more experienced guild members on the design of larger features"
           - "Modifies and improves code outside of the developer abstractions and reasons about the improvements effectively"
           - "Fixes bugs in asynchronous code"
           - "Debugs production issues"
-          - "Explains developer abstractions and how to contribute to them to other engineers"
+          - "Explains developer abstractions and how to contribute to them to other guild members"
           - "Collaborates with designers and user researchers to create prototypes and to evaluate them"
           - "Differentiates between user needs and desires and prioritises accordingly"
         exampleCriteria:
@@ -239,7 +239,7 @@ topics:
               - "A range, from services such as Lighthouse, WebPageTest, WAVE etc" 
       - level: 4
         criteria:
-          - "Writes code that serves as a definitive example for new engineers"
+          - "Writes code that serves as a definitive example for new guild members"
           - "Makes contributions to library code or other core parts of the applications"
           - "Makes contributions to our development tools and build processes"
           - "Writes complex asynchronous and concurrent code"
@@ -249,7 +249,7 @@ topics:
           - "Debugs and fixes complex issues at speed"
           - "Identifies and fixes security weaknesses"
           - "Identifies and fixes performance bottlenecks in applications"
-          - "Explains all aspects of the web platform to new engineers"
+          - "Explains all aspects of the web platform to new guild members"
           - "Implements services or libraries that require a deep level of domain knowledge"
           - "Puts users first and can manage competing priorities effectively"
       - level: 5
@@ -263,8 +263,8 @@ topics:
           - "Demonstrates a deep level of knowledge in a specific area"
           - "Serves as a technical authority on a technology or an area of the codebase"
           - "Reviews technical designs and pull requests for large complex projects"
-          - "Encourages and supports other engineers to achieve outstanding results"
-          - "Creates major contributions to our documentation, and creates documents that provide guidelines and best practices to other engineers"
+          - "Encourages and supports other guild members to achieve outstanding results"
+          - "Creates major contributions to our documentation, and creates documents that provide guidelines and best practices to other guild members"
           - "Works with technical and non-technical stakeholders to identify high-level requirements and turns them into discrete technical concerns"
       - level: 6
         criteria:
@@ -280,9 +280,9 @@ topics:
           - "Identifies and explores opportunities for service and business improvement"
 ---
 ### About our engineering progression frameworks
-The engineering progression framework is a tool that helps engineers and managers:
+The engineering progression framework is a tool that helps guild members and managers:
 - make development and career plans
-- talk about what we’re looking for from engineers in a consistent way
+- talk about what we’re looking for from guild members in a consistent way
 - set a fair level of compensation.
 
 The framework is a compass, not a GPS.
@@ -290,7 +290,7 @@ The framework is a compass, not a GPS.
 It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
 
 ### How does it work?
-The framework covers all the things we’re looking for from engineers at Monzo. We’re interested in these five elements:
+The framework covers all the things we’re looking for from guild members at Monzo. We’re interested in these five elements:
 - Mastery - Your Monzo knowledge and technical capability
 - Impact - The size, scope and value of what you deliver
 - Influence - How you change the world around you for the better

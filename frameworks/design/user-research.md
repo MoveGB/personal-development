@@ -21,7 +21,7 @@ You run research projects independently and swiftly, from sourcing and schedulin
 
 ### Collaboration
 
-You avoid "big reveal" research within the squads you work with by involving other disciplines at every step. Although you share insight quickly to keep your team informed, you're mindful of the limitations of the research you've run, from the biases and the assumptions that were made. You have a positive impact in your squad by reducing the uncertainty around decision-making. 
+You avoid "big reveal" research within the squads you work with by involving other guilds at every step. Although you share insight quickly to keep your team informed, you're mindful of the limitations of the research you've run, from the biases and the assumptions that were made. You have a positive impact in your squad by reducing the uncertainty around decision-making. 
 
 ---
 
@@ -53,7 +53,7 @@ You've mastered the range of qualitative and quantitative research methods and w
 
 ### Ownership
 
-You understand which disciplines to pull in at what moment to progress projects so we can learn quickly in a way that's robust and as unbiased as possible – which doesn't necessarily involve user research. You work closely with data to identify opportunities for new research projects where we can learn more about our customers, which in turn can help progress squads towards company goals whilst solving the right customer problems in the right way. 
+You understand which guilds to pull in at what moment to progress projects so we can learn quickly in a way that's robust and as unbiased as possible – which doesn't necessarily involve user research. You work closely with data to identify opportunities for new research projects where we can learn more about our customers, which in turn can help progress squads towards company goals whilst solving the right customer problems in the right way. 
 
 ### Collaboration
 

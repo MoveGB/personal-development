@@ -89,7 +89,7 @@ topics:
       - level: 1
         criteria:
           - "Works closely or in pairs with more senior members of the team when facing tasks for the first time"
-          - "Needs support and guidance from managers, mentors and leads"
+          - "Needs support and guidance from managers, coachs and leads"
           - "Needs approval to ship projects of a certain impact"
           - "They may need support on how to navigate the professional environment"
       - level: 2

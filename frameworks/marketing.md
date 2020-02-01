@@ -34,7 +34,7 @@ topics:
         criteria:
           - "Deep knowledge and understanding of several key areas."
           - "Sought out for guidance and insight on multiple subjects."
-          - "Teaches, guides and mentors others."
+          - "Teaches, guides and coachs others."
       - level: 6
         criteria:
           - "Strong knowledge of the entire relevant landscape."
@@ -52,7 +52,7 @@ topics:
           - "Adjusts processes to make them work better."
       - level: 2
         criteria:
-          - "Fully owns an area, channel or discipline and works on small to medium projects and types of work with guidance from others."
+          - "Fully owns an area, channel or guild and works on small to medium projects and types of work with guidance from others."
           - "Accountable for deliverables of their work."
       - level: 3
         criteria:
@@ -109,7 +109,7 @@ topics:
           - "Helps others make their own decisions."
           - "Gets buy-in for their goals."
           - "Guides others' work when needed; looks for ways to help other people in the team to really shine and develop their own skills."
-          - "Acts as a role-model or mentor."
+          - "Acts as a role-model or coach."
           - "Gives useful feedback to those around them."
       - level: 6
         criteria:

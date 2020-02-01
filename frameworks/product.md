@@ -121,7 +121,7 @@ topics:
       - level: 2
         criteria:
           - "Sets squad rhythm and routines - facilitates agreement on how they all work together to discover, define and ship features or experiments to meet their goals."
-          - "Works collaboratively to get the best out of all of the people in their squad, involving all disciplines throughout. Takes proactive steps to build and maintain team health, e.g. resolve conflict, counter inertia."
+          - "Works collaboratively to get the best out of all of the people in their squad, involving all guilds throughout. Takes proactive steps to build and maintain team health, e.g. resolve conflict, counter inertia."
           - "Point person for the squad - does whatever is needed to unblock or support the squad and their delivery. Escalates and delegates appropriately."
           - "Ensures the squad has the skills and resources it needs to ship autonomously."
       - level: 3

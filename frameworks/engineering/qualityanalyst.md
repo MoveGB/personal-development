@@ -12,16 +12,16 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Provides regular status updates to their squad and discipline"
+          - "Provides regular status updates to their squad and guild"
           - "Points out improvements in test scenario reviews"
           - "Seeks guidance from other testers, rather than answers"
           - "Accepts feedback graciously"
       - level: 2
         criteria:
-          - "Proactively communicates to their squad and discipline with what they are working on, why, how it's going and when they need help"
+          - "Proactively communicates to their squad and guild with what they are working on, why, how it's going and when they need help"
           - "Accepts feedback graciously and looks to action feedback"
           - "Gives feedback to peers when asked"
-          - Communicates clearly to other disciplines and within squad with little need for clarification
+          - Communicates clearly to other guilds and within squad with little need for clarification
       - level: 3
         criteria:
           - "Transparent about mistakes they've made, early"
@@ -35,7 +35,7 @@ topics:
       - level: 1
         criteria:
           - "Works as part of a squad and can self assign tasks"
-          - "Delivers assigned tasks, working with a more senior squad or discipline member, and able to take feedback to improve their work"
+          - "Delivers assigned tasks, working with a more senior squad or guild member, and able to take feedback to improve their work"
           - "Attends planning meetings, inputting on improving quality early and can identify simple risks"
       - level: 2
         criteria:
@@ -43,7 +43,7 @@ topics:
           - "Works as part of a squad, focuses on tasks that contribute to squad goals"
           - "Tries to unblock themselves first before seeking help"
           - "Manages their own time effectively, prioritises their workload well, on time for meetings, aware when blocking others and unblocks"
-          - "Contributes to a well functioning squad and discipline by picking ups tasks that need to be done to unblock.  Pairs with others if unable to complete task alone"
+          - "Contributes to a well functioning squad and guild by picking ups tasks that need to be done to unblock.  Pairs with others if unable to complete task alone"
           - "Solves small/medium problems"
       - level: 3
         criteria:
@@ -56,7 +56,7 @@ topics:
     content:
       - level: 3
         criteria:
-          - "Onboards / mentors new engineers"
+          - "Onboards / coachs new guild members"
   - name: "influence"
     title: "✨ Influence"
     content:
@@ -67,7 +67,7 @@ topics:
         criteria:
           - "Proactively raises issues they spot in retrospectives"
           - "Identifies and raises issues with test tools, harnesses and frameworks used"
-          - "Contributes to tester discipline catch ups"
+          - "Contributes to tester guild catch ups"
       - level: 3
         criteria:
           - "Provides valuable input to RFCs from other testers"
@@ -88,7 +88,7 @@ topics:
         criteria:
           - "Analyses features, understands impact of change can analyse what areas will be affected by a change"
           - "Independently creates test scenarios for business features with high customer visibility and medium business risk"
-          - "Writes detailed bug reports according to best practice. Communicates clearly to the engineers with little need for clarification"
+          - "Writes detailed bug reports according to best practice. Communicates clearly to the guild members with little need for clarification"
           - "Independently uses tool assisted testing techniques to assist in determining a bug’s root cause"
           - "Drives releases from a test perspective.  Understands the need for quality and weighs up bug impact vs feature impact to assist release decisions"
           - "Participates in squad rituals"
@@ -107,9 +107,9 @@ topics:
 
 ---
 ### About our engineering progression frameworks
-The engineering progression framework is a tool that helps engineers and managers:
+The engineering progression framework is a tool that helps guild members and managers:
 - make development and career plans
-- talk about what we’re looking for from engineers in a consistent way
+- talk about what we’re looking for from guild members in a consistent way
 - set a fair level of compensation.
 
 The framework is a compass, not a GPS.
@@ -117,7 +117,7 @@ The framework is a compass, not a GPS.
 It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
 
 ### How does it work?
-The framework covers all the things we’re looking for from engineers at Monzo. We’re interested in these five elements:
+The framework covers all the things we’re looking for from guild members at Monzo. We’re interested in these five elements:
 - Mastery - Your Monzo knowledge and technical capability
 - Impact - The size, scope and value of what you deliver
 - Influence - How you change the world around you for the better

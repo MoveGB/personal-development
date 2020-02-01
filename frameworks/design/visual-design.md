@@ -39,7 +39,7 @@ You're involved in and own big (and not necessarily well defined) tasks and proj
 
 ### Collaboration
 
-You provide feedback and guidance to those around you. You help mentoring more junior staff and are a source of integrity and a model to follow. You're involved in hiring and actively help shaping the team culture. You are also very good at identifying opportunities for collaboration between different teams and are good at making problems smaller instead of bigger.
+You provide feedback and guidance to those around you. You help coaching more junior staff and are a source of integrity and a model to follow. You're involved in hiring and actively help shaping the team culture. You are also very good at identifying opportunities for collaboration between different teams and are good at making problems smaller instead of bigger.
 
 ---
 
@@ -57,7 +57,7 @@ You define and completely own big tasks and coordinate well with others to get t
 
 ### Collaboration
 
-You are an excellent mentor and people constantly learn more from you during show and tell and feedback on Lattice. You put efforts on hiring and you sometimes write blogposts or speak at conferences. These things elevate our design culture and make us better.
+You are an excellent coach and people constantly learn more from you during show and tell and feedback on Lattice. You put efforts on hiring and you sometimes write blogposts or speak at conferences. These things elevate our design culture and make us better.
 
 ---
 

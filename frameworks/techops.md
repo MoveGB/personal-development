@@ -37,8 +37,8 @@ topics:
           - "Proactively gives feedback 'upwards' and to people they interact with who are not in their team"
           - "Transparent in making design and technical decisions"
           - "Helps people in non-technical roles understand technical constraints / trade-offs"
-          - "Shares technical context and direction for less experienced engineers"
-          - "Gives direct and constructive feedback to other engineers"
+          - "Shares technical context and direction for less experienced guild members"
+          - "Gives direct and constructive feedback to other guild members"
           - "Communicates their area’s role within the larger mission of the company"
       - level: 5
         criteria:
@@ -187,7 +187,7 @@ topics:
       - level: 5
         criteria:
           - "Represents Monzo at conferences/events"
-          - "Given as a reason for other engineers to join Monzo"
+          - "Given as a reason for other guild members to join Monzo"
           - "Proactively shares knowledge internally"
           - "Acts as the 'sole proprietor', in the CEO mindset, their ego/agenda is not a factor in their thinking or decision making"
   - name: "leadership"
@@ -202,15 +202,15 @@ topics:
         criteria:
           - "Contributes to maintaining the Monzo culture in their team, helping new joiners"
           - "Gets buy-in on technical decision-making and proposed designs"
-          - "Proactively involves other relevant engineers"
+          - "Proactively involves other relevant guild members"
           - "Instills Monzo engineering principles into the team, even for operational tasks"
-          - "Helps the growth of other team members around them through coaching and mentoring"
+          - "Helps the growth of other team members around them through coaching and coaching"
           - "Helps their squad work together more effectively"
           - "Helps facilitate team/squad rituals"
       - level: 5
         criteria:
-          - "Instills Monzo engineering principles across a whole squad of engineers"
-          - "Works with relevant Engineering Managers to help other engineers perform and grow"
+          - "Instills Monzo engineering principles across a whole squad of guild members"
+          - "Works with relevant Engineering Managers to help other guild members perform and grow"
           - "Fosters effective collaboration in multi-disciplinary squads (backend, mobile, data, design, web)"
           - "Delegates technical decisions with low risk and high reversibility"
           - "Owns technical decisions with high risk and low reversibility"
